@@ -2,6 +2,8 @@
   --red-base: #ffc0cb;
   --blue-base: #c0d3f6; 
   --green-base: #c1f8c1;
+  --white-base: #ffffff;
+  --purple-base: #c67ff2;
   --base: var(--red-base) ;
 }
 
